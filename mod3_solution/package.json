@@ -1,0 +1,18 @@
+{
+  "name": "mod3_solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "browser": "^0.2.6",
+    "sync": "^0.2.5"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
