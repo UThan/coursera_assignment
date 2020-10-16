@@ -12,7 +12,8 @@
     "browser-sync": "^2.26.12"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server" : "browser-sync start --server --files --directories \"**/*\" "
   },
   "author": "",
   "license": "ISC"

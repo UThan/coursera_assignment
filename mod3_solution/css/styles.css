@@ -1,0 +1,20 @@
+.nav{
+    background-color: lightgrey;
+}
+
+.module{
+    background-color:lightgrey;
+    margin: 10px;
+    padding: 10px;
+}
+
+.module>h3{
+    color: black;
+    font-weight: bold;
+}
+
+#navbar-title{
+    color: #333;
+    font-size: 2em;
+    font-weight: bold;
+}
